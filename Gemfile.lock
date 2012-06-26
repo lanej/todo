@@ -44,7 +44,6 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.16)
     mysql2 (0.2.13)
-    pg (0.13.2)
     polyglot (0.3.2)
     puma (1.2.1)
       rack (~> 1.2)
@@ -93,7 +92,6 @@ PLATFORMS
 DEPENDENCIES
   jquery-rails (= 1.0.14)
   mysql2 (~> 0.2.7)
-  pg (~> 0.13.2)
   puma
   rails (= 3.0.9)
   simple_form (= 1.5.1)
